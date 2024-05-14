@@ -1,0 +1,27 @@
+body{
+   background-color: #EEE5E9;
+   font-family: sans-serif;
+}
+
+h1{
+   color: #503e9d;
+}
+
+h2{
+   color: #182135;
+}
+
+a{
+   color: #3f3f3f;
+   text-decoration: none;
+}
+
+span, .homeButton:hover, #sendButton {
+   background-color: #cdc5c9;
+   padding: 5px;
+   border-radius: 5px;
+}
+
+span:hover, .homeButton:hover {
+   background-color: #92DCE5;
+}
